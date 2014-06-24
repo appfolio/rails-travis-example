@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/appfolio/rails-travis-example.svg)](https://travis-ci.org/appfolio/rails-travis-example)](https://codeclimate.com/github/secure-pipeline/rails-travis-example)
-
+[![Build Status](https://travis-ci.org/appfolio/rails-travis-example.svg)](https://travis-ci.org/appfolio/rails-travis-example)
 # Rails Travis Example
 
 ## Overview
